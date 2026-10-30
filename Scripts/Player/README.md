@@ -1,6 +1,7 @@
 # PlayerController
 
 My Contribution: Implemented and configured player input sensitivity settings within the ASORNPlayerController. I worked on the input sensitivity system and adjusted it based on the needs of the project. This allowed players to customize their aiming and camera control experience through adjustable mouse and controller settings.
+
 ---
 ## Key features I worked on include:
 
