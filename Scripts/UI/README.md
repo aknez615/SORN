@@ -1,6 +1,7 @@
 # UI Subsystem - Accessibility Fixes and Mouse Management
 
 My Contribution: Fixed bugs related to UI accessibility settings, with a primary focus on mouse behavior and cursor positioning during menu navigation.
+
 ---
 ## Key contributions include:
 
